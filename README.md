@@ -1,6 +1,6 @@
 ## Hello World! Eu sou Vinicius Teixeira estudante de programação e tecnologia !
-- 🔭 Hoje trabalho em uma transportadora
-- 🌱 Estou estudando Java script
+- 🔭 Hoje busco uma recolocação no mercado
+- 🌱 Estou estudando React
 - 😄 Pronouns: Ele/Dele
 
 ### Meus contatos 
